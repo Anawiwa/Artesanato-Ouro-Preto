@@ -1,0 +1,6 @@
+{
+  "name": "Artesanato Ouro Preto - Mercado Colonial",
+  "description": "Plataforma e-commerce no estilo Amazon com a paleta Ouro Preto para produtos artesanais mineiros, inclui slider de faixa de preço e orçamento no grid de Mais Vendidos, emissão e impressão de Ficha Técnica e Certificado de Autenticidade, busca preditiva com autocomplete de produtos, artesãos e categorias, newsletter Notas da Estrada Real, efeito de paralaxe e iluminação barroca de galeria nas imagens, Buy Box da Panela de Pedra-Sabão, Mais Vendidos em JSON, Copywriting com Bullet Points, Simulador de Frete Colonial, Aviso de Estoque Limitado, e Meus Pedidos com Rastreamento em Tempo Real pela Estrada Real e Certificados IPHAN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
